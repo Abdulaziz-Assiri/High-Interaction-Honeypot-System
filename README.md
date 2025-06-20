@@ -9,10 +9,6 @@ We developed a honeypot system, abstracting Linux complexity through an intuitiv
 - Evidence capture  
 
 ## Team Members  
-- Abdulaziz Assiri  
-- Saud Al Zayed  
-- Naif Al Asmari  
-
-- [@AbdulazizAssiri](https://github.com/Abdulaziz-Assiri)
-- [@SaudAlZayed](https://github.com/w2ksa)  
-- [@NaifAlAsmari](https://github.com/NaifAlsmari)
+- [@Abdulaziz Assiri](https://github.com/Abdulaziz-Assiri)
+- [@Saud Al Zayed](https://github.com/w2ksa)  
+- [@Naif AlAsmari](https://github.com/NaifAlsmari)
